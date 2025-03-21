@@ -1,3 +1,5 @@
+# distutils: language=c++
+
 from hummingbot.strategy.strategy_base cimport StrategyBase
 from hummingbot.core.clock import Clock
 from hummingbot.core.clock cimport Clock

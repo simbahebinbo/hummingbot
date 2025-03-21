@@ -1,3 +1,5 @@
+# distutils: language=c++
+
 import datetime as dt
 import glob
 import logging

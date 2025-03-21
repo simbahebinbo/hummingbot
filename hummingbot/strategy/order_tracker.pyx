@@ -1,3 +1,5 @@
+# distutils: language=c++
+
 from collections import (
     deque,
     OrderedDict

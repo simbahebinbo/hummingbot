@@ -1,3 +1,5 @@
+# distutils: language=c++
+
 # distutils: sources=['hummingbot/core/cpp/Utils.cpp', 'hummingbot/core/cpp/LimitOrder.cpp', 'hummingbot/core/cpp/OrderExpirationEntry.cpp']
 
 import asyncio

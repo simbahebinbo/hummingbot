@@ -1,3 +1,5 @@
+# distutils: language=c++
+
 from collections import OrderedDict
 
 from hummingbot.connector.exchange_base import ExchangeBase

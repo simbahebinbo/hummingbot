@@ -1,3 +1,5 @@
+# distutils: language=c++
+
 from typing import (
     Dict,
     List,

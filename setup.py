@@ -113,7 +113,6 @@ def main():
     ]
 
     cython_kwargs = {
-        "language": "c++",
         "language_level": 3,
     }
 

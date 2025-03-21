@@ -1,3 +1,5 @@
+# distutils: language=c++
+
 import asyncio
 from collections import deque
 

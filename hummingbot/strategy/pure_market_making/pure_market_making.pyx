@@ -1,3 +1,5 @@
+# distutils: language=c++
+
 import logging
 from decimal import Decimal
 from math import ceil, floor

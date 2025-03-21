@@ -1,3 +1,5 @@
+# distutils: language=c++
+
 import numpy as np
 import logging
 cimport numpy as np

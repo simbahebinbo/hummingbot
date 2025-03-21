@@ -1,3 +1,5 @@
+# distutils: language=c++
+
 import asyncio
 from decimal import Decimal
 from typing import (

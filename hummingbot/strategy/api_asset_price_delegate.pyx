@@ -1,3 +1,5 @@
+# distutils: language=c++
+
 from decimal import Decimal
 
 from hummingbot.core.data_type.common import PriceType

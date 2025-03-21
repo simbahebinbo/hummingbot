@@ -1,3 +1,5 @@
+# distutils: language=c++
+
 import logging
 from typing import Optional
 import dataclasses

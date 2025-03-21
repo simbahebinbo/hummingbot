@@ -1,3 +1,5 @@
+# distutils: language=c++
+
 from decimal import Decimal
 
 from hummingbot.connector.exchange_base import ExchangeBase

@@ -1,3 +1,5 @@
+# distutils: language=c++
+
 from decimal import Decimal
 import logging
 import pandas as pd

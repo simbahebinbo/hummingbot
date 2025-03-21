@@ -1,3 +1,5 @@
+# distutils: language=c++
+
 cdef class TransactionTracker(TimeIterator):
     def __init__(self):
         super().__init__()

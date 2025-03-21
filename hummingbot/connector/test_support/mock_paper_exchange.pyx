@@ -1,3 +1,5 @@
+# distutils: language=c++
+
 from decimal import Decimal
 from typing import List, Optional, Tuple, TYPE_CHECKING
 
