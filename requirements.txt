@@ -25,3 +25,6 @@ prompt_toolkit==3.0.20
 yarl==1.8.2
 asyncssh==2.13.1
 jsonpickle==3.0.1
+Cython==3.0.12
+bidict==0.23.1
+scipy==1.15.2
